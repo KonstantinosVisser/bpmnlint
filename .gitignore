@@ -6,3 +6,4 @@ build/
 *.pyc
 dist/
 node_modules/
+coverage/
